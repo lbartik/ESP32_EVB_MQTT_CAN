@@ -1,0 +1,1 @@
+  A PlatformIO (Arduino framework) MQTT/CAN demo based on sandeepmistry's arduino CAN library: https://github.com/sandeepmistry/arduino-CAN/tree/master AND Rui Santos' MQTT tutorial: https://randomnerdtutorials.com  GPIOs set for Olimex ESP32-EVB
